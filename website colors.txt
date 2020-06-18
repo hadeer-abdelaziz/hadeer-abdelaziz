@@ -1,0 +1,2 @@
+my website colors
+linear-gradient(to right, #ff6a00 0%, #FE018F);
